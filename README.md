@@ -9,3 +9,18 @@ wget -q https://raw.githubusercontent.com/TidalWavesNode/Delete-Local-Block-Chai
 bash DLBF.sh
 
 Answer yes to the prompts
+
+
+watch ./wagerr-cli getinfo (hint – ctrl c will stop the watch)
+
+Wait for the VPS to fully sync (compare blocks to Wagerr Explorer)
+
+Start Local Control Wallet –
+
+startmasternode alias false
+
+Start VPS Masternode –
+
+cd ~/wagerr-2.0.1/bin
+
+./wagerr-cli startmasternode local false
