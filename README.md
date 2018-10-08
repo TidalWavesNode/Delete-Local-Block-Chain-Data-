@@ -2,7 +2,7 @@
 
 If the VPS gets stuck on a block, corrupted, or otherwise doesn't seem to be syncing or downloading new blocks this script Deletes local block chain data files and restarts the masternode.
 
-##Usage
+## Usage
 
 wget -q https://raw.githubusercontent.com/TidalWavesNode/Delete-Local-Block-Chain-Data-/master/DLBF.sh
 
