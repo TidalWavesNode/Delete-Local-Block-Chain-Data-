@@ -1,4 +1,4 @@
-# Delete-Local-Block-Chain-Data
+# Delete-Local-Block-Chain-Data (Automated script)
 
 If the VPS gets stuck on a block, corrupted, or otherwise doesn't seem to be syncing or downloading new blocks this script Deletes local block chain data files and restarts the masternode.
 
