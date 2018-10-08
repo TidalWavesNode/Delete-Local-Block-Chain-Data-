@@ -13,6 +13,8 @@ Answer yes to the prompts
 
 ## Wait for the VPS to fully sync (compare blocks to Wagerr Explorer)
 
+./wagerr-cli getinfo (will show current stats of syncing)
+
 Start Local Control Wallet –
 
 startmasternode alias false
