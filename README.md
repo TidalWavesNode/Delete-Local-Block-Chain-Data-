@@ -11,9 +11,7 @@ bash DLBF.sh
 Answer yes to the prompts
 
 
-watch ./wagerr-cli getinfo (hint – ctrl c will stop the watch)
-
-Wait for the VPS to fully sync (compare blocks to Wagerr Explorer)
+## Wait for the VPS to fully sync (compare blocks to Wagerr Explorer)
 
 Start Local Control Wallet –
 
