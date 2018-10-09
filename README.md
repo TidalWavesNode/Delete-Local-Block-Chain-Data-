@@ -24,3 +24,6 @@ Start VPS Masternode –
 cd ~/wagerr-2.0.1/bin
 
 ./wagerr-cli startmasternode local false
+
+# Donations
+$WGR: WagerrLiVo87tYRpLmwV3QJvB2sY58hS5f
